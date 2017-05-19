@@ -1,0 +1,91 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "https://github.com/amitgur/cordova-plugin-hello",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "https://github.com/amitgur/cordova-plugin-hello",
+        "spec": "git+https://github.com/amitgur/cordova-plugin-hello.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:amitgur/cordova-plugin-hello.git",
+          "sshUrl": "git+ssh://git@github.com/amitgur/cordova-plugin-hello.git",
+          "httpsUrl": "git+https://github.com/amitgur/cordova-plugin-hello.git",
+          "gitUrl": "git://github.com/amitgur/cordova-plugin-hello.git",
+          "shortcut": "github:amitgur/cordova-plugin-hello",
+          "directUrl": "https://raw.githubusercontent.com/amitgur/cordova-plugin-hello/master/package.json"
+        }
+      },
+      "D:\\Ionic\\hello\\node_modules"
+    ]
+  ],
+  "_from": "git+https://github.com/amitgur/cordova-plugin-hello.git",
+  "_id": "cordova-plugin-hello@0.7.0",
+  "_inCache": true,
+  "_location": "/cordova-plugin-hello",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "https://github.com/amitgur/cordova-plugin-hello",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "https://github.com/amitgur/cordova-plugin-hello",
+    "spec": "git+https://github.com/amitgur/cordova-plugin-hello.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:amitgur/cordova-plugin-hello.git",
+      "sshUrl": "git+ssh://git@github.com/amitgur/cordova-plugin-hello.git",
+      "httpsUrl": "git+https://github.com/amitgur/cordova-plugin-hello.git",
+      "gitUrl": "git://github.com/amitgur/cordova-plugin-hello.git",
+      "shortcut": "github:amitgur/cordova-plugin-hello",
+      "directUrl": "https://raw.githubusercontent.com/amitgur/cordova-plugin-hello/master/package.json"
+    }
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/amitgur/cordova-plugin-hello.git#8622d73cc173cd12e1cae5d7ddcd6a7884ef2bcd",
+  "_shasum": "98d774941f20a040713e8b46cc34fe7907dca006",
+  "_shrinkwrap": null,
+  "_spec": "https://github.com/amitgur/cordova-plugin-hello",
+  "_where": "D:\\Ionic\\hello\\node_modules",
+  "author": {
+    "name": "Apache Software Foundation"
+  },
+  "bugs": {
+    "url": "https://issues.apache.org/jira/browse/CB/component/12320648"
+  },
+  "cordova": {
+    "id": "co.bandpad.test",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova P Plugin",
+  "devDependencies": {},
+  "engines": [],
+  "gitHead": "8622d73cc173cd12e1cae5d7ddcd6a7884ef2bcd",
+  "homepage": "https://github.com/amitgur/cordova-plugin-hello#readme",
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "Apache 2.0",
+  "name": "cordova-plugin-hello",
+  "optionalDependencies": {},
+  "readme": "# Cordova Test Plugin\r\n\r\nFor develop only\r\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitgur/cordova-plugin-hello.git"
+  },
+  "version": "0.7.0"
+}
